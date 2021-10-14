@@ -50,11 +50,11 @@ The file `src/modules/mock_data.json` itself should not be modified. Consider th
 
 Via GitHub:
 
-- Create a public repository, push your changes and email the link to `mark@pinkaloo.com`
+- Create a public repository, push your changes and email the link to 
 
 Via Email:
 
-- Remove the `node_modules` directory and send a `.zip` of the project directory to `mark@pinkaloo.com`
+- Remove the `node_modules` directory and send a `.zip` of the project directory to 
 
 ## Available Scripts
 
