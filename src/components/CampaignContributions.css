@@ -1,0 +1,8 @@
+.CampaignInfo-contributions {
+	background: rgb(250,250,250);
+	padding: 1.5rem;
+	text-align: left;
+	flex: 1;
+	max-height: 420px;
+	overflow-y: scroll;
+}

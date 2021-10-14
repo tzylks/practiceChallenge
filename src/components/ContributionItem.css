@@ -1,0 +1,14 @@
+.ContributionInfo {
+	display: flex;
+	flex-direction: row;
+	padding: 1rem;
+}
+
+.ContributionInfo-user {
+	padding-left: 1rem;
+}
+
+.ContributionInfo-date {
+	font-size: 0.9em;
+	color: rgb(120,120,120);
+}

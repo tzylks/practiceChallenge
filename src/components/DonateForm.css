@@ -1,0 +1,54 @@
+.Donate-form {
+	padding: 1.5rem 3rem;
+	flex: 1;
+}
+
+.Donate-form input {
+	padding: 1rem;
+	font-size: 1.2em;
+	border-radius: 6px;
+	border: 2px solid rgb(210,210,210);
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.Donate-form input:focus {
+	outline: none;
+	border-color: rgb(249, 4, 125);
+}
+
+.Donate-message {
+	margin-top: 1rem;
+}
+
+.Donate-button {
+	padding: 1rem 3rem;
+	font-size: 1.2em;
+	font-weight: bold;
+	border-radius: 4px;
+	width: 100%;
+	margin-top: 1rem;
+	background: rgb(249, 4, 125);
+	border-color: rgb(249, 4, 125);
+	color: white;
+	cursor: pointer;
+}
+
+.Donate-button:focus {
+	outline: none;
+	/*border-color: rgb(5, 72, 248);*/
+}
+
+.Donate-button:active {
+	background: rgb(191, 3, 97);
+}
+
+.Donate-error {
+	background: rgba(255,0,0,0.05);
+	border: 1px solid rgb(255,0,0);
+	color: rgb(255,0,0);
+	font-weight: bold;
+	border-radius: 4px;
+	padding: 1rem;
+	margin-top: 1rem;
+}

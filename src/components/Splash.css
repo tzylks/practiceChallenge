@@ -1,0 +1,10 @@
+.Splash {
+  min-height: 50vh;
+  border-radius: 10px;
+  background: white;
+  margin: 0 3rem;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  justify-content: center;
+}

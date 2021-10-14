@@ -1,0 +1,12 @@
+.Campaigns {
+  display: flex;
+  flex-direction: row;
+  /*background: linear-gradient(180deg, rgb(237, 205, 217), rgb(238, 179, 201));*/
+  padding: 2rem 3rem;
+  padding-right: 2rem;
+}
+
+.Campaigns a{
+  color: inherit;
+  text-decoration: none;
+}
